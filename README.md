@@ -7,7 +7,7 @@
 
 <h4 align="center">👍 In the past, I've used</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,prisma,deno,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=nextjs,prisma,deno,sqlite,postgres,solidity" />
 </p>
 
 <h4 align="center">🌱 I'm still learning about</p>
