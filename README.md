@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm DJ 👋</h1>
 
-<!--
-**techied/techied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">❤ I love working with</p>
+<p align="center">
+  <img alt="AWS, Google Cloud, React, TypeScript, Git, Docker" src="https://skillicons.dev/icons?i=aws,gcp,react,ts,git,docker" />
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">👍 In the past, I've used</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,prisma,deno,sqlite,postgres" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">🌱 I'm still learning about</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,terraform,workers" />
+</p>
+
+<h4 align="center">My passions are...</h4>
+<table align="center">
+  <tr>
+    <td>
+      🏎
+    </td>
+    <td>
+      Cars (performance, enthusiast, electric, or just weird!)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🤖
+    </td>
+    <td>
+      Autonomous Vehicles
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🎢
+    </td>
+    <td>
+      Rollercoasters (credit count of 83)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🚃
+    </td>
+    <td>
+      Trains & public transit (BART fan)
+    </td>
+  </tr>
+</table>
+</div>
