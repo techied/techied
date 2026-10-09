@@ -27,6 +27,14 @@
   </tr>
   <tr>
     <td>
+      📸
+    </td>
+    <td>
+      Photography (I love shooting landscapes!)
+    </td>
+  </tr>
+  <tr>
+    <td>
       🤖
     </td>
     <td>
